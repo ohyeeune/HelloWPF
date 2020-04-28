@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Hello World!" HorizontalAlignment="Left" Margin="142,101,0,0" VerticalAlignment="Top" Width="516" Height="220" FontSize="30" FontFamily="Montserrat Black"/>
+        <Button Content="Hello World! YeEun~" HorizontalAlignment="Left" Margin="142,101,0,0" VerticalAlignment="Top" Width="516" Height="220" FontSize="30" FontFamily="Montserrat Black" Background="#FF78DBEE"/>
 
     </Grid>
 </Window>
